@@ -1,0 +1,1109 @@
+
+.preview-class {
+    height: auto !important;
+}
+
+.buttonSelectionTemplate-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttonSelectionTemplate-container1 {
+    flex: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-self: center;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.buttonSelectionTemplate-container2 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-text {
+    object-fit: cover;
+    font-size: 5vh;
+    margin-bottom: 70px;
+}
+
+.buttonSelectionTemplate-container3 {
+    flex: 0 0 auto;
+    width: auto;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 24px;
+    flex-direction: row;
+}
+
+.buttonSelectionTemplate-button {
+    width: 18vh;
+    height: 24vh;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 16px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-image1 {
+    width: 4vh;
+    height: 4vh;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionTemplate-text01 {
+    font-size: 2vh;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionTemplate-text02 {
+    font-size: 1.5vh;
+    text-align: center;
+}
+
+.buttonSelectionTemplate-text04 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-button1 {
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-image2 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionTemplate-text05 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionTemplate-text06 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-text08 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-button2 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-image3 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionTemplate-text09 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionTemplate-text10 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-text12 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-button3 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-image4 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionTemplate-text13 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionTemplate-text14 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-text16 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-button4 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-image5 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionTemplate-text17 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionTemplate-text18 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-text20 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-button5 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionTemplate-image6 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionTemplate-text21 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionTemplate-text22 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-text24 {
+    text-align: center;
+}
+
+.buttonSelectionTemplate-container4 {
+    flex: 0;
+    width: auto;
+    height: 100%;
+    display: flex;
+    margin-top: 24px;
+    align-items: flex-start;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    justify-content: space-between;
+}
+
+.walletConnectTemplate-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+.walletConnectTemplate-container1 {
+    flex: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-self: center;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.walletConnectTemplate-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.walletConnectTemplate-container2 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 48px;
+    align-items: center;
+    margin-bottom: 0px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.walletConnectTemplate-text {
+    font-size: 48px;
+    margin-bottom: 48px;
+    max-width: 700px;
+    text-align: center;
+}
+
+.walletConnectTemplate-button {
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+.walletConnectTemplate-text1 {
+    font-size: 48px;
+    margin-top: 48px;
+    margin-bottom: 48px;
+    max-width: 700px;
+    text-align: center;
+}
+
+.walletConnectTemplate-container3 {
+    flex: 0 0 auto;
+    width: auto;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+.walletConnectTemplate-button1 {
+    margin-top: 48px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 48px;
+}
+
+.walletConnectTemplate-button2 {
+    margin-top: 48px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 48px;
+}
+
+.walletConnectTemplate-button3 {
+    margin-top: 48px;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 48px;
+}
+
+.welcomeTemplate-containerx {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    /* min-height: 100vh; */
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.welcomeTemplate-preview {
+    max-height: 50vh;
+    min-height: 50vh;
+}
+
+.welcomeTemplate-container1 {
+    flex: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-self: stretch;
+    align-items: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.welcomeTemplate-image {
+    /* background-image: url('./leftLogo.png'); */
+    width: 50%;
+    background-size: 100% 100%;
+    align-self: stretch;
+    object-fit: cover;
+}
+
+.welcomeTemplate-container2 {
+    flex: 0 0 auto;
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.welcomeTemplate-container3 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.welcomeTemplate-container4 {
+    flex: 0 0 auto;
+    width: 100%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.welcomeTemplate-text {
+    width: auto;
+    font-size: 48px;
+    align-self: center;
+    font-style: normal;
+    font-weight: 600;
+    align-items: center;
+    text-align: center;
+}
+
+.welcomeTemplate-text1 {
+    font-size: 36px;
+    align-self: center;
+    font-style: normal;
+    margin-top: var(--dl-space-space-threeunits);
+    font-weight: 600;
+    text-align: center;
+}
+
+.welcomeTemplate-text2 {
+    width: 30%;
+    align-self: center;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.welcomeTemplate-text3 {
+    width: 30%;
+    align-self: center;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.welcomeTemplate-text4 {
+    width: 30%;
+    align-self: center;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.welcomeTemplate-container5 {
+    flex: 0 0 auto;
+    width: auto;
+    height: 10%;
+    display: flex;
+    align-self: stretch;
+    align-items: flex-end;
+    padding-right: 24px;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 25px;
+    padding-right: 25px;
+}
+
+.welcomeTemplate-button {
+    width: auto;
+    height: auto;
+    align-self: flex-end;
+    margin-top: 0px;
+    border-width: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color: #0290af;
+}
+
+.flex {
+    display: flex
+}
+
+.items-center {
+    align-items: center
+}
+
+.justify-center {
+    justify-content: center
+}
+
+.button {
+    border-radius: 20px !important;
+}
+
+@media(max-width: 479px) {
+
+    .welcomeTemplate-container1 {
+        flex-direction: column;
+    }
+
+    .welcomeTemplate-image {
+        width: 100%;
+        align-self: center;
+    }
+
+    .welcomeTemplate-container2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .welcomeTemplate-container5 {
+        align-self: center;
+        padding-top: 24px;
+        padding-right: 0px;
+    }
+
+    .welcomeTemplate-button {
+        border-width: 0px;
+        background-color: #0c91c5;
+    }
+
+    .walletConnectTemplate-container2 {
+        height: auto;
+        align-items: center;
+        padding-top: 24px;
+        flex-direction: column;
+        padding-bottom: 24px;
+    }
+
+    .walletConnectTemplate-text {
+        text-align: center;
+    }
+
+    .walletConnectTemplate-text1 {
+        text-align: center;
+    }
+
+    .buttonSelectionVerticalTemplate-container2 {
+        height: auto;
+        align-items: center;
+        padding-top: 24px;
+        flex-direction: column;
+        padding-bottom: 24px;
+    }
+
+    .buttonSelectionVerticalTemplate-text {
+        text-align: center;
+    }
+
+    .buttonSelectionVerticalTemplate-container3 {
+        width: 100%;
+        height: auto;
+    }
+
+    .buttonSelectionVerticalTemplate-button {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button1 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button2 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button3 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button4 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button5 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-container2 {
+        height: auto;
+        align-items: center;
+        padding-top: 24px;
+        flex-direction: column;
+        padding-bottom: 24px;
+    }
+
+    .buttonSelectionTemplate-text {
+        font-size: 1vh;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    .buttonSelectionTemplate-container3 {
+        width: 100%;
+        height: auto;
+    }
+
+    .buttonSelectionTemplate-button {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button1 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button2 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button3 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button4 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button5 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+}
+
+.buttonSelectionVerticalTemplate-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttonSelectionVerticalTemplate-container1 {
+    flex: 2;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-self: center;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-container4 {
+    flex: 0 0 auto;
+    width: 100%;
+    display: flex;
+    margin-top: 8px;
+    align-items: flex-start;
+    margin-bottom: 8px;
+}
+
+.buttonSelectionVerticalTemplate-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+.buttonSelectionVerticalTemplate-container2 {
+    margin-top: 46px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-text {
+    font-size: 48px;
+    margin-bottom: 48px;
+}
+
+.buttonSelectionVerticalTemplate-container3 {
+    flex: 0 0 auto;
+    width: auto;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 8px;
+    flex-direction: column;
+}
+
+.buttonSelectionVerticalTemplate-button {
+    width: 225px;
+    height: 225px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 16px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-image1 {
+    width: 40px;
+    height: 40px;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionVerticalTemplate-text01 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionVerticalTemplate-text02 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-text04 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-button1 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-image2 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionVerticalTemplate-text05 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionVerticalTemplate-text06 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-text08 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-button2 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-image3 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionVerticalTemplate-text09 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionVerticalTemplate-text10 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-text12 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-button3 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-image4 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionVerticalTemplate-text13 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionVerticalTemplate-text14 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-text16 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-button4 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-image5 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionVerticalTemplate-text17 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionVerticalTemplate-text18 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-text20 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-button5 {
+    height: 200px;
+    display: flex;
+    align-self: center;
+    box-shadow: 0px 2px 4px 0px #d4d4d4;
+    align-items: center;
+    margin-left: 16px;
+    padding-top: 8px;
+    border-color: #BFBFBF;
+    border-width: 1px;
+    margin-right: 16px;
+    border-radius: 20px;
+    flex-direction: column;
+    padding-bottom: 8px;
+    justify-content: space-between;
+}
+
+.buttonSelectionVerticalTemplate-image6 {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+.buttonSelectionVerticalTemplate-text21 {
+    font-size: 20px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 600;
+}
+
+.buttonSelectionVerticalTemplate-text22 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-text24 {
+    text-align: center;
+}
+
+.buttonSelectionVerticalTemplate-container4 {
+    flex: 0;
+    width: auto;
+    height: 100%;
+    display: flex;
+    margin-top: 8px;
+    align-items: flex-start;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: 24px;
+    justify-content: space-between;
+}
+
+@media(max-width: 991px) {
+    .walletConnectTemplate-text {
+        text-align: center;
+    }
+
+    .walletConnectTemplate-text1 {
+        text-align: center;
+    }
+
+    .buttonSelectionTemplate-text {
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    .buttonSelectionTemplate-container3 {
+        margin-bottom: 0px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .buttonSelectionVerticalTemplate-text {
+        text-align: center;
+    }
+
+    .buttonSelectionVerticalTemplate-container3 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media(max-width: 767px) {
+
+    .welcomeTemplate-text1 {
+        text-align: center;
+    }
+
+    .welcomeTemplate-text2 {
+        text-align: center;
+    }
+
+    .welcomeTemplate-text3 {
+        text-align: center;
+    }
+
+    .welcomeTemplate-text4 {
+        text-align: center;
+    }
+
+    .walletConnectTemplate-container2 {
+        height: auto;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .buttonSelectionTemplate-container2 {
+        height: auto;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .buttonSelectionTemplate-container3 {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .buttonSelectionTemplate-button {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button1 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button2 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button3 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button4 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionTemplate-button5 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-container2 {
+        height: auto;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .buttonSelectionVerticalTemplate-container3 {
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .buttonSelectionVerticalTemplate-button {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button1 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button2 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button3 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button4 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+
+    .buttonSelectionVerticalTemplate-button5 {
+        margin-top: 16px;
+        margin-bottom: 16px;
+    }
+}
